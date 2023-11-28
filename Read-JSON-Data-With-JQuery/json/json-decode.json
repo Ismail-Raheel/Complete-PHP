@@ -1,0 +1,20 @@
+[
+{
+    "id": "1",
+    "student_name": "Ismail",
+    "age": "22",
+    "city": "Karachi"
+  },
+  {
+    "id": "2",
+    "student_name": "Arsal",
+    "age": "35",
+    "city": "Lahore"
+  },
+  {
+    "id": "3",
+    "student_name": "Ahmed",
+    "age": "26",
+    "city": "Lahore"
+  }
+]
